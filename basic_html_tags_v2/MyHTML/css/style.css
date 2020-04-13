@@ -1,0 +1,8 @@
+h1{
+    color:#00ff00
+}
+
+ table, td, th {
+    border-collapse: collapse;
+    border: 2px #2b2b2b solid; 
+} 
